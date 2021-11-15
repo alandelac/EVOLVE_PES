@@ -1,7 +1,7 @@
 # Evolve_PES
 Goalkeeper game with hand detection
 
-# cosas a tener en cuenta
+# thigns to consider
 - I made this game on the version 202.3 of unity. Try this one is something fails
 - for python i used python 3.9 and installed via pip opencv and mediapipe
 - feel free to modify and use the project as you want, please just credit me if you use the project please
